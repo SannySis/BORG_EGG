@@ -1,1 +1,15 @@
 
+#header{
+  width: 100%;
+  height: 80%;
+  background-color: green;
+}
+
+.left{
+ background-color: lightgreen;
+  width: 30%;
+}
+.right{
+ background-color: lightgrey;
+  width 70%;
+}
