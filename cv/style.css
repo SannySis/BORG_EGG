@@ -8,8 +8,10 @@
 .left{
  background-color: lightblue;
   width: 30%;
+  float: left;
 }
 .right{
  background-color: blue;
   width: 70%;
+  float: right;
 }
