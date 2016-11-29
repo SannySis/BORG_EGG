@@ -1,4 +1,3 @@
-
 #header{
   width: 100%;
   height: 80px;
@@ -8,3 +7,16 @@
 .left{
  background-color: lightblue;
   width: 30%;
+  float: left;
+}
+.right{
+ background-color: blue;
+  width: 70%;
+  float: right;
+}
+
+@media screen and (max-width: 600px){
+  .left, .right{
+    
+}
+}
