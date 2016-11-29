@@ -5,12 +5,12 @@
 }
 
 .left{
- background-color: #66CDAA;
+ background-color: #98FB98;
   width: 30%;
   float: left;
 }
 .right{
- background-color: #7FFFD4;
+ background-color: #98FB98;
   width: 70%;
   float: right;
 }
